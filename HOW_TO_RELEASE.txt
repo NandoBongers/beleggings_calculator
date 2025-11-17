@@ -1,0 +1,3 @@
+pip install pyinstaller
+
+pyinstaller --onefile --name "BeleggingsCalculator" --icon=icon.ico beleggings_calculator.py
